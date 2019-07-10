@@ -4,7 +4,7 @@ This repo is for medium-sized data to 'play' with (i.e. develop with)
 
 ## Aim for files to be <10 MB each and make 9-10 files per dataset
 
-- This allows us to have 10 datasets per repo.
+- This allows us to have 10 datasets per repo
 
 ## How we rationalized to reach the above aim
 
